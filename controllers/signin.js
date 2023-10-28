@@ -27,7 +27,7 @@ try{
 
 
 
-    const activationLink=`https://auth-backend-2pls.onrender.com/signin/${token}`
+    const activationLink=`https://auth-5mau.onrender.com/signin/${token}`
     const content=`<h3>hi,there</h3><h4>Welcome to the app</h4>
     <P>Thanku for signing up.click the below link to activate</p>
     <a href="${activationLink}>click here</a>
